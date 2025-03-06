@@ -1,0 +1,15 @@
+{
+    "name": "chrome-fzf",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "start": "bun run chrome-fzf.ts"
+    },
+    "dependencies": {
+        "chalk": "^5.3.0"
+    },
+    "devDependencies": {
+        "bun-types": "latest",
+        "@types/node": "^20.8.3"
+    }
+}

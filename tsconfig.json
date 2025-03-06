@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "module": "ESNext",
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "strict": true,
+        "types": [
+            "bun-types",
+            "node"
+        ],
+        "outDir": "dist"
+    },
+    "include": [
+        "*.ts"
+    ]
+}
